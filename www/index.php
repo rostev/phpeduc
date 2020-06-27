@@ -1,5 +1,6 @@
 <?php
     require_once "../config/config.php"; //Инициализация настроек
+    require_once "../config/db.php"; // Инициализация базы данных
     require_once "../library/mainFunctions.php"; // Основные функции
 
     //Определяем контроллер

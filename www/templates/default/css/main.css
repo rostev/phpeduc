@@ -35,6 +35,19 @@ body {
     padding: 3px;
     font-weight: bold;
 }
+
 .cartBox {
     padding: 5px 0 0 5px;
+}
+
+.products {
+    float: left;
+    padding: 0 30px 40px 0;
+}
+
+.photo {
+    width: 100px;
+}
+.third {
+    clear: both;
 }

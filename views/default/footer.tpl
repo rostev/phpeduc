@@ -1,3 +1,4 @@
+</div>{*CenterColumn*}
 
 <div id="footer">
     Footer

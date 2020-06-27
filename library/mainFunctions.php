@@ -11,7 +11,6 @@
      * @param string $controllerName - имя контроллера
      * @param string $actionName - имя действия обработки страницы
      */
-
     function loadPage(Smarty $smarty, string $controllerName, string $actionName = 'index'): void {
         require_once PathPrefix . $controllerName . PathPostfix;
 
